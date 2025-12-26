@@ -9,7 +9,7 @@ export default function Header() {
     <header className={`header-container ${isDark ? "dark" : ""}`}>
       <div className="header-content">
         <h2 title="Click to go Back on detail Page" className="heading" onClick={() => navigate(-1)}>
-          Where in the World?
+          Where in the Worlds?
         </h2>
 
         <span
