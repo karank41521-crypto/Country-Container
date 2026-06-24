@@ -736,7 +736,7 @@ var _errorDefault = parcelHelpers.interopDefault(_error);
 var _countryDetail = require("./Components/CountryDetail");
 var _countryDetailDefault = parcelHelpers.interopDefault(_countryDetail);
 var _allMinCss = require("@fortawesome/fontawesome-free/css/all.min.css");
-const router = (0, _reactRouterDom.createBrowserRouter)([
+const router = (0, _reactRouterDom.createHashRouter)([
     {
         path: "/",
         element: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _appDefault.default), {}, void 0, false, {
