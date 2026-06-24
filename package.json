@@ -1,0 +1,26 @@
+{
+  "name": "countries_api_01",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "papaparse": "^5.5.4",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router": "^6.21.3",
+    "react-router-dom": "^6.21.3"
+  }
+}
