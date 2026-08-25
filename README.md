@@ -1,1 +1,1 @@
-﻿![DevPulse Stats](http://localhost:5000/api/v1/devpulse/badge?github=karank41521-crypto&leetcode=karan-kumar-ram)
+﻿
